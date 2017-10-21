@@ -1,0 +1,5 @@
+name: Gravestones
+main: com.ulfric.plugin.gravestones.GravestonesPlugin
+version: 1.0.0
+author: Ulfric LLC
+depend: [Platform]
